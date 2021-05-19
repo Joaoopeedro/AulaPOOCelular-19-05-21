@@ -1,0 +1,16 @@
+C:\Users\Dev\Documents\sistema de orientação-celular\bin\Debug\net5.0\sistema de orientação-celular.exe
+C:\Users\Dev\Documents\sistema de orientação-celular\bin\Debug\net5.0\sistema de orientação-celular.deps.json
+C:\Users\Dev\Documents\sistema de orientação-celular\bin\Debug\net5.0\sistema de orientação-celular.runtimeconfig.json
+C:\Users\Dev\Documents\sistema de orientação-celular\bin\Debug\net5.0\sistema de orientação-celular.runtimeconfig.dev.json
+C:\Users\Dev\Documents\sistema de orientação-celular\bin\Debug\net5.0\sistema de orientação-celular.dll
+C:\Users\Dev\Documents\sistema de orientação-celular\bin\Debug\net5.0\ref\sistema de orientação-celular.dll
+C:\Users\Dev\Documents\sistema de orientação-celular\bin\Debug\net5.0\sistema de orientação-celular.pdb
+C:\Users\Dev\Documents\sistema de orientação-celular\obj\Debug\net5.0\sistema de orientação-celular.csprojAssemblyReference.cache
+C:\Users\Dev\Documents\sistema de orientação-celular\obj\Debug\net5.0\sistema de orientação-celular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\Documents\sistema de orientação-celular\obj\Debug\net5.0\sistema de orientação-celular.AssemblyInfoInputs.cache
+C:\Users\Dev\Documents\sistema de orientação-celular\obj\Debug\net5.0\sistema de orientação-celular.AssemblyInfo.cs
+C:\Users\Dev\Documents\sistema de orientação-celular\obj\Debug\net5.0\sistema de orientação-celular.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Documents\sistema de orientação-celular\obj\Debug\net5.0\sistema de orientação-celular.dll
+C:\Users\Dev\Documents\sistema de orientação-celular\obj\Debug\net5.0\ref\sistema de orientação-celular.dll
+C:\Users\Dev\Documents\sistema de orientação-celular\obj\Debug\net5.0\sistema de orientação-celular.pdb
+C:\Users\Dev\Documents\sistema de orientação-celular\obj\Debug\net5.0\sistema de orientação-celular.genruntimeconfig.cache
